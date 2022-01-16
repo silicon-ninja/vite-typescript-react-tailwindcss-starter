@@ -1,5 +1,6 @@
 {
   "name": "template-vite-tailwindcss-react",
+  "author":"Srikanth Kandarp",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
